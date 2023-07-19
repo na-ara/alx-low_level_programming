@@ -1,13 +1,9 @@
 #include "main.h"
 
 /**
-
  * main - function that prints _putchar
-
  * is written by mbah
-
  * Return: returns 0;
-
  */
 
 int main(void)
